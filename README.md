@@ -6,7 +6,7 @@ IT Student @ University of Moratuwa | Aspiring Software Engineer & Full Stack De
 - 🌱 I’m currently learning DSA and Full Stack Development  
 - ⚡ Fun fact: I enjoy learning new tech, building projects and solving problems  
 - Social Presence:   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashfak-ahmath-5840a335a)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfak-ahmath-5840a335a)
   [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashfak_ahmath_/#)   
 
 ### I code in 
@@ -23,4 +23,4 @@ IT Student @ University of Moratuwa | Aspiring Software Engineer & Full Stack De
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashfakahmath57)
 
-[![Ashfak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshfakAhmath&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Ashfak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshfakAhmath&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/AshfakAhmath)
