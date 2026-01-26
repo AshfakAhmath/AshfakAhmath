@@ -20,6 +20,7 @@ IT Student @ University of Moratuwa | Aspiring Software Engineer & Full Stack De
 
 ### 📊 GitHub Stats
 ![Ashfak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshfakAhmath&theme=dark&show_icons=true&hide=issues,contribs)
+![](https://nirzak-streak-stats.vercel.app/?user=AshfakAhmath&theme=blue_navy&hide_border=false)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashfakahmath57)
 
