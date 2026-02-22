@@ -3,7 +3,7 @@
 IT Student @ University of Moratuwa | Aspiring Software Engineer & Full Stack Developer 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  
-- 🌱 I’m currently learning DSA and Full Stack Development  
+- 🌱 I’m currently learning Full Stack Development  
 - ⚡ Fun fact: I enjoy learning new tech, building projects and solving problems  
 - Social Presence:   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashfak-ahmath-5840a335a)
